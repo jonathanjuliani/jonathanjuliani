@@ -1,51 +1,5 @@
 # Jonathan Juliani
 
-## English
-
-**Software engineer** building typed, product-facing web apps and monorepos.
-
-Based in São Paulo, Brazil; working remotely with US-based teams.
-
-### At a glance
-
-- **TypeScript, React, Next.js** — shipping UI, APIs, and cohesive app architecture.
-- **Monorepos & tooling** — Nx, pnpm, testing (e.g. Vitest, Playwright).
-- **Cloud & platforms** — AWS, GCP, containers (Docker).
-- **Also comfortable with** Python, Java, and shell automation when the problem calls for it.
-
-### Featured work
-
-| Project                   | Description                                                | Stack                                        |
-| ------------------------- | ---------------------------------------------------------- | -------------------------------------------- |
-| [**xxx xxx**] _(private)_ | New tech blog where I'll share a little of what I leardned | Nx, Next.js, React 19, TypeScript            |
-| [**xxx xxx**] _(private)_ | Shortly a new tool available                               | Next.js 15, React 19, Nx, Tailwind v4, Radix |
-
-_Add a public repo link in the table when Career Copilot is public._
-
----
-
-## Português
-
-**Engenheiro de software** focado em produto web tipado e monorepos.
-
-Baseado em São Paulo; atuação remota com times nos Estados Unidos.
-
-### Em resumo
-
-- **TypeScript, React, Next.js** — UI, APIs e arquitetura de aplicativos.
-- **Monorepos e ferramentas** — Nx, pnpm, testes (ex.: Vitest, Playwright).
-- **Nuvem e plataformas** — AWS, GCP, containers (Docker).
-- **Também** Python, Java e automação em shell quando faz sentido.
-
-### Projetos em destaque
-
-| Projeto                   | Descrição                                                                  | Stack                                        |
-| ------------------------- | -------------------------------------------------------------------------- | -------------------------------------------- |
-| [**xxx xxx**] _(private)_ | Um novo blog onde vou compartilhar um pouquinho do que aprendi na carreira | Nx, Next.js, React 19, TypeScript            |
-| [**xxx xxx**] _(private)_ | Em breve uma ferramenta pra te ajudar a...                                 | Next.js 15, React 19, Nx, Tailwind v4, Radix |
-
-_Inclua o link do repositório na tabela quando o Career Copilot for público._
-
 ---
 
 ### Stack
@@ -73,8 +27,6 @@ _Inclua o link do repositório na tabela quando o Career Copilot for público._
 ---
 
 ### GitHub activity
-
-_Live widgets — may rate-limit occasionally._
 
 <p align="left">
   <a href="https://github.com/jonathanjuliani">
@@ -104,7 +56,58 @@ _Live widgets — may rate-limit occasionally._
 
 ---
 
+## English
+
+**Software engineer** building typed, product-facing web apps and monorepos.
+
+Based in São Paulo, Brazil; working remotely with US-based teams.
+
+### At a glance
+
+- **TypeScript, React, Next.js** — shipping UI, APIs, and cohesive app architecture.
+- **Monorepos & tooling** — Nx, pnpm, testing (e.g. Vitest, Playwright).
+- **Cloud & platforms** — AWS, GCP, containers (Docker).
+- **Also comfortable with** Python, Java, and shell automation when the problem calls for it.
+
+### Featured work
+
+| Project                   | Description                                                | Stack                                        |
+| ------------------------- | ---------------------------------------------------------- | -------------------------------------------- |
+| [**xxx xxx**] _(private)_ | New tech blog where I'll share a little of what I leardned | Nx, Next.js, React 19, TypeScript            |
+| [**xxx xxx**] _(private)_ | Shortly a new tool available                               | Next.js 15, React 19, Nx, Tailwind v4, Radix |
+
+---
+
 ### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanjuliani/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/jonathanjuliani)
+
+---
+
+## Português
+
+**Engenheiro de software** focado em produto web tipado e monorepos.
+
+Baseado em São Paulo; atuação remota com times nos Estados Unidos.
+
+### Em resumo
+
+- **TypeScript, React, Next.js** — UI, APIs e arquitetura de aplicativos.
+- **Monorepos e ferramentas** — Nx, pnpm, testes (ex.: Vitest, Playwright).
+- **Nuvem e plataformas** — AWS, GCP, containers (Docker).
+- **Também** Python, Java e automação em shell quando faz sentido.
+
+### Projetos em destaque
+
+| Projeto                   | Descrição                                                                  | Stack                                        |
+| ------------------------- | -------------------------------------------------------------------------- | -------------------------------------------- |
+| [**xxx xxx**] _(private)_ | Um novo blog onde vou compartilhar um pouquinho do que aprendi na carreira | Nx, Next.js, React 19, TypeScript            |
+| [**xxx xxx**] _(private)_ | Em breve uma ferramenta pra te ajudar a...                                 | Next.js 15, React 19, Nx, Tailwind v4, Radix |
+
+---
+
+### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanjuliani/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/jonathanjuliani)
