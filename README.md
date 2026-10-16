@@ -23,6 +23,11 @@ I build the parts of lending and payments platforms where a wrong number is a re
 | [**skillverse**](https://github.com/jonathanjuliani/skillverse) | See every skill your AI agents have, how they connect and what they cost. Plugin pane, local web app, terminal UI and a VS Code panel. | TypeScript · Node.js · pnpm · Vitest |
 | [**adhd-focus**](https://github.com/jonathanjuliani/adhd-focus) | Session-long output style: answer first, one next action, a breakdown only when asked. | Agent Skills |
 
+## Activity
+
+<img src="./assets/activity.svg" alt="Contributions over the last 12 months" width="49%"> <img src="./assets/languages.svg" alt="Languages over the last 12 months" width="49%">
+
+
 <details>
 <summary><b>Português</b></summary>
 
