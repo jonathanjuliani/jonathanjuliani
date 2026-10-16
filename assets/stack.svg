@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="292" viewBox="0 0 820 292" role="img" aria-labelledby="title desc">
+  <title id="title">Stack</title>
+  <desc id="desc">What I ship with day to day: backend TypeScript and NestJS, Temporal workflows, PostgreSQL and DynamoDB, AWS and Terraform, React and Next.js, Claude Code and MCP, plus Java, Python, Bash and COBOL.</desc>
+  <style>
+    .frame { fill: #ffffff; stroke: #d0d7de; stroke-width: 1; }
+    .title { fill: #1f2328; font: 600 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .sub { fill: #656d76; font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .cat { fill: #656d76; font: 600 11px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; letter-spacing: 0.04em; }
+    .val { fill: #1f2328; font: 400 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .frame { fill: #0d1117; stroke: #30363d; }
+      .title { fill: #e6edf3; }
+      .sub { fill: #8b949e; }
+      .cat { fill: #8b949e; }
+      .val { fill: #e6edf3; }
+    }
+  </style>
+  <rect class="frame" x="0.5" y="0.5" width="819" height="291" rx="10"/>
+  <text class="title" x="24" y="34">Stack</text>
+  <text class="sub" x="796" y="34" text-anchor="end">what I ship with, day to day</text>
+
+  <rect x="24" y="58" width="10" height="10" rx="2" fill="#3fb950"/>
+  <text class="cat" x="44" y="67">BACKEND</text>
+  <text class="val" x="148" y="67">TypeScript · Node.js · NestJS · Express · CQRS · REST APIs · Zod</text>
+
+  <rect x="24" y="90" width="10" height="10" rx="2" fill="#a371f7"/>
+  <text class="cat" x="44" y="99">WORKFLOWS</text>
+  <text class="val" x="148" y="99">Temporal (TypeScript SDK) · SQS · idempotency · outbox and poller patterns</text>
+
+  <rect x="24" y="122" width="10" height="10" rx="2" fill="#58a6ff"/>
+  <text class="cat" x="44" y="131">DATA</text>
+  <text class="val" x="148" y="131">PostgreSQL · DynamoDB · Sequelize · schema design and live migrations</text>
+
+  <rect x="24" y="154" width="10" height="10" rx="2" fill="#d29922"/>
+  <text class="cat" x="44" y="163">CLOUD</text>
+  <text class="val" x="148" y="163">AWS (ECS Fargate, S3, SQS, KMS) · Terraform · Docker · GitHub Actions · Datadog</text>
+
+  <rect x="24" y="186" width="10" height="10" rx="2" fill="#39d0d6"/>
+  <text class="cat" x="44" y="195">FRONTEND</text>
+  <text class="val" x="148" y="195">React · Next.js · BFF · Tailwind · Playwright · Nx monorepos</text>
+
+  <rect x="24" y="218" width="10" height="10" rx="2" fill="#f778ba"/>
+  <text class="cat" x="44" y="227">AI TOOLING</text>
+  <text class="val" x="148" y="227">Claude Code · agent skills and plugins · MCP (Linear, Slack, Notion, GitHub)</text>
+
+  <rect x="24" y="250" width="10" height="10" rx="2" fill="#8b949e"/>
+  <text class="cat" x="44" y="259">ALSO</text>
+  <text class="val" x="148" y="259">Java · Python · Bash · COBOL (legacy payments, a while ago)</text>
+</svg>

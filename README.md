@@ -1,113 +1,42 @@
 # Jonathan Juliani
 
----
+**Senior Software Engineer · fintech backend, full stack when the feature needs it.**
 
-### Stack
+I build the parts of lending and payments platforms where a wrong number is a real problem: durable workflows on Temporal, PostgreSQL models that change under live data, integrations that have to agree with ours, and the React/Next.js screens on top. Remote from Brazil, working with US teams since 2021.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+[jonathanjuliani.dev](https://jonathanjuliani.dev) · [LinkedIn](https://www.linkedin.com/in/jonathanjuliani/) · [YouTube](https://www.youtube.com/@jonathanjuliani)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+<img src="./assets/stack.svg" alt="Stack: TypeScript, Node.js, NestJS, Temporal, PostgreSQL, DynamoDB, AWS, Terraform, Docker, React, Next.js, Claude Code, MCP" width="100%">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+## Now
 
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+- **Clutch** — Senior Software Engineer on a lending platform for US credit unions: account opening, origination, decisioning, closing.
+- **Temporal** — workflow orchestration in TypeScript, including a PCI/CDE-isolated worker with encrypted payloads.
+- **Agent tooling** — writing skills and plugins for Claude Code and other agents. The public ones are below.
+- **Writing** — posts at [jonathanjuliani.dev](https://jonathanjuliani.dev) and videos on Node.js, React and running systems in production.
 
----
+## Open source
 
-### GitHub activity
+| Repo | What it does | Built with |
+|---|---|---|
+| [**skilldeck**](https://github.com/jonathanjuliani/skilldeck) | 36 engineering skills for JS/TS, React and React Native agents. They read the repo before picking a stack. Installs on Claude Code, Codex, Cursor, Copilot and Gemini CLI. | Agent Skills · Python · evals |
+| [**skillverse**](https://github.com/jonathanjuliani/skillverse) | See every skill your AI agents have, how they connect and what they cost. Plugin pane, local web app, terminal UI and a VS Code panel. | TypeScript · Node.js · pnpm · Vitest |
+| [**adhd-focus**](https://github.com/jonathanjuliani/adhd-focus) | Session-long output style: answer first, one next action, a breakdown only when asked. | Agent Skills |
 
-<p align="left">
-  <a href="https://github.com/jonathanjuliani">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanjuliani&layout=compact&hide=java,html,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6"
-      alt="Jonathan Juliani's most used languages on GitHub"
-    />
-  </a>
-  <a href="https://github.com/jonathanjuliani">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=jonathanjuliani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_title=false"
-      alt="Jonathan Juliani's GitHub stats"
-    />
-  </a>
-</p>
+<details>
+<summary><b>Português</b></summary>
 
-<p align="left">
-  <a href="https://github.com/jonathanjuliani">
-    <img
-      src="https://streak-stats.demolab.com/?user=jonathanjuliani&theme=dark&background=1D1F21&ring=2BBC8A&currStreakLabel=2BBC8A"
-      alt="Jonathan Juliani's GitHub contribution streak"
-    />
-  </a>
-</p>
+<br>
 
----
+**Senior Software Engineer · backend de fintech, full stack quando a feature pede.**
 
-## English
+Construo as partes de plataformas de crédito e pagamentos onde um número errado é um problema de verdade: workflows duráveis com Temporal, modelos PostgreSQL que mudam com dados em produção, integrações que precisam bater com as nossas, e as telas em React/Next.js por cima. Remoto, do Brasil, trabalhando com times dos EUA desde 2021.
 
-**Software engineer** building typed, product-facing web apps and monorepos.
+**Agora**
 
-Based in São Paulo, Brazil; working remotely with US-based teams.
+- **Clutch** — Senior Software Engineer numa plataforma de crédito para credit unions nos EUA: abertura de conta, originação, decisão e formalização.
+- **Temporal** — orquestração de workflows em TypeScript, incluindo um worker isolado em ambiente PCI/CDE com payloads criptografados.
+- **Ferramentas para agentes** — escrevo skills e plugins para Claude Code e outros agentes. Os públicos estão acima.
+- **Conteúdo** — posts em [jonathanjuliani.dev](https://jonathanjuliani.dev) e vídeos sobre Node.js, React e sistemas em produção.
 
-### At a glance
-
-- **TypeScript, React, Next.js** — shipping UI, APIs, and cohesive app architecture.
-- **Monorepos & tooling** — Nx, pnpm, testing (e.g. Vitest, Playwright).
-- **Cloud & platforms** — AWS, GCP, containers (Docker).
-- **Also comfortable with** Python, Java, and shell automation when the problem calls for it.
-
-### Featured work
-
-| Project                   | Description                                                | Stack                                        |
-| ------------------------- | ---------------------------------------------------------- | -------------------------------------------- |
-| [**xxx xxx**] _(private)_ | New tech blog where I'll share a little of what I leardned | Nx, Next.js, React 19, TypeScript            |
-| [**xxx xxx**] _(private)_ | Shortly a new tool available                               | Next.js 15, React 19, Nx, Tailwind v4, Radix |
-
----
-
-### Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanjuliani/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/jonathanjuliani)
-
----
-
-## Português
-
-**Engenheiro de software** focado em produto web tipado e monorepos.
-
-Baseado em São Paulo; atuação remota com times nos Estados Unidos.
-
-### Em resumo
-
-- **TypeScript, React, Next.js** — UI, APIs e arquitetura de aplicativos.
-- **Monorepos e ferramentas** — Nx, pnpm, testes (ex.: Vitest, Playwright).
-- **Nuvem e plataformas** — AWS, GCP, containers (Docker).
-- **Também** Python, Java e automação em shell quando faz sentido.
-
-### Projetos em destaque
-
-| Projeto                   | Descrição                                                                  | Stack                                        |
-| ------------------------- | -------------------------------------------------------------------------- | -------------------------------------------- |
-| [**xxx xxx**] _(private)_ | Um novo blog onde vou compartilhar um pouquinho do que aprendi na carreira | Nx, Next.js, React 19, TypeScript            |
-| [**xxx xxx**] _(private)_ | Em breve uma ferramenta pra te ajudar a...                                 | Next.js 15, React 19, Nx, Tailwind v4, Radix |
-
----
-
-### Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanjuliani/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/jonathanjuliani)
+</details>
