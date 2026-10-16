@@ -1,0 +1,19 @@
+{
+  "name": "jonathanjuliani",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "cards": "tsx scripts/cards/main.ts",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@xmldom/xmldom": "^0.9.8",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.9"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "packageManager": "pnpm@10.19.0"
+}
