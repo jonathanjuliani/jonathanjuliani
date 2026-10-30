@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="412" height="200" viewBox="0 0 412 200" role="img" aria-labelledby="title desc">
   <title id="title">Languages</title>
-  <desc id="desc">Language bytes across public personal repos: JavaScript 46%, TypeScript 30%, Python 23%, Shell 1%.</desc>
+  <desc id="desc">Language bytes across public personal repos: JavaScript 44%, TypeScript 31%, Python 23%, Shell 2%.</desc>
   <style>
     .frame { fill: #ffffff; stroke: #d0d7de; stroke-width: 1; }
     .t { fill: #1f2328; font: 600 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
@@ -34,19 +34,19 @@
     </clipPath>
   </defs>
   <g clip-path="url(#barClip)">
-    <rect x="24" y="50" width="167" height="10" fill="#f1e05a"/><rect x="191" y="50" width="109" height="10" fill="#3178c6"/><rect x="300" y="50" width="84" height="10" fill="#3572A5"/><rect x="384" y="50" width="4" height="10" fill="#89e051"/>
+    <rect x="24" y="50" width="160" height="10" fill="#f1e05a"/><rect x="184" y="50" width="113" height="10" fill="#3178c6"/><rect x="297" y="50" width="84" height="10" fill="#3572A5"/><rect x="381" y="50" width="7" height="10" fill="#89e051"/>
   </g>
   <circle cx="30" cy="88" r="4" fill="#f1e05a"/>
   <text class="l" x="42" y="92">JavaScript</text>
-  <text class="p" x="190" y="92" text-anchor="end">46%</text>
+  <text class="p" x="190" y="92" text-anchor="end">44%</text>
   <circle cx="30" cy="114" r="4" fill="#3178c6"/>
   <text class="l" x="42" y="118">TypeScript</text>
-  <text class="p" x="190" y="118" text-anchor="end">30%</text>
+  <text class="p" x="190" y="118" text-anchor="end">31%</text>
   <circle cx="30" cy="140" r="4" fill="#3572A5"/>
   <text class="l" x="42" y="144">Python</text>
   <text class="p" x="190" y="144" text-anchor="end">23%</text>
   <circle cx="222" cy="88" r="4" fill="#89e051"/>
   <text class="l" x="234" y="92">Shell</text>
-  <text class="p" x="388" y="92" text-anchor="end">1%</text>
+  <text class="p" x="388" y="92" text-anchor="end">2%</text>
   <text class="f" x="24" y="180">public personal repos · bytes of code</text>
 </svg>
